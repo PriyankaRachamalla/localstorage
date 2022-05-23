@@ -1,0 +1,18 @@
+.cart{
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: row;
+    padding: 32px;
+    border: 1px solid;
+    margin-bottom: 8px;
+    justify-content: space-between;
+}
+
+.cartContainer{
+    margin-top: 24px;
+  width: 100%;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}

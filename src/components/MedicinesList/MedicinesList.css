@@ -1,0 +1,19 @@
+.container{
+    width: 100vh;
+    max-width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.list{
+    max-width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 24px;
+}
+
+.productsHeader{
+    width: 100%;
+    margin-top: 24px;
+    text-align: center;
+}
